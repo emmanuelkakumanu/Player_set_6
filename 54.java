@@ -19,7 +19,7 @@ class Ideone
 				if(str1.charAt(i)==str2.charAt(i))
 				f++;
 			}
-			System.out.println(f);
+			//System.out.println(f);
 			if(f==str1.length())
 			System.out.print("yes");
 			else
